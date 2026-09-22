@@ -1,0 +1,15 @@
+.\objects\port.o: ..\freertos\Source\portable\RVDS\ARM_CM3\port.c
+.\objects\port.o: ..\freertos\Source\include\FreeRTOS.h
+.\objects\port.o: ..\freertos\Source\include\FreeRTOSConfig.h
+.\objects\port.o: ..\freertos\Source\include\projdefs.h
+.\objects\port.o: ..\freertos\Source\include\portable.h
+.\objects\port.o: ..\freertos\Source\include\portmacro.h
+.\objects\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\port.o: ..\freertos\Source\include\list.h
+.\objects\port.o: ..\freertos\Source\include\task.h
+.\objects\port.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include\ARMCM3.h
+.\objects\port.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm3.h
+.\objects\port.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h
+.\objects\port.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h
+.\objects\port.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM3\Include\system_ARMCM3.h
